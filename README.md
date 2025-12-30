@@ -7,7 +7,7 @@ I'm a Computing Science undergraduate at the University of Alberta, passionate a
 🛠️ Currently building Full Stack Applications with React & NodeJS<br>🌱 Expanding my knowledge in Algorithmic Game Theory
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agoth-arop) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a60th) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agoth-arop-9b19203a3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a60th) 
 
 # 💻 Tech Stack:
 ### Languages:
