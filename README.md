@@ -1,10 +1,10 @@
-# 📈 What I'm Up to:
-🛠️ Currently building Full Stack Applications with React & NodeJS<br>🌱 Expanding my knowledge in Algorithmic Game Theory
-
+<h1 align="center">Hi 👋 I'm Agoth Arop</h1>
 
 # 💫 About Me:
-- I'm currently a Computing Science undergraduate at the University of Alberta
-- I'm fascinated by using modern web technologies to provide real-world value for people
+I'm a Computing Science undergraduate at the University of Alberta, passionate about using modern web technologies to provide real-world value for people.
+
+# 📈 What I'm Up to:
+🛠️ Currently building Full Stack Applications with React & NodeJS<br>🌱 Expanding my knowledge in Algorithmic Game Theory
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agoth-arop) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a60th) 
