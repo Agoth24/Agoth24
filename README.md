@@ -11,7 +11,7 @@ I'm also a coffee connoisseur... and I love reading non-fiction.
 💻 Currently building Full Stack Applications with React on the frontend & NodeJS on the backend
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agoth-arop-9b19203a3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a60th) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agoth-arop-9b19203a3)
 
 # 🛠️ Tech Stack:
 ### Languages:
